@@ -67,10 +67,10 @@ export default function Footer() {
                 <div>
                   <p className="text-gray-400 text-sm">Phone</p>
                   <a
-                    href="tel:+919972200910"
+                    href="tel:+919972028567"
                     className="text-white hover:text-cyan-400 transition-colors"
                   >
-                    +91 99722 00910
+                    +91 99720 28567
                   </a>
                 </div>
               </li>
@@ -79,9 +79,9 @@ export default function Footer() {
                 <div>
                   <p className="text-gray-400 text-sm">Office</p>
                   <p className="text-white text-sm leading-relaxed">
-                    North, Old Madras Rd, Halasuru,<br />
-                    Hoysala Nagar, Ward Number 80,<br />
-                    Bengaluru, Karnataka 560008
+                    100 Feet Rd, HAL 2nd Stage,<br />
+                    Indiranagar, Bengaluru,<br />
+                    Karnataka 560038
                   </p>
                 </div>
               </li>

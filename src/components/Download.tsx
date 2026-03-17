@@ -3,7 +3,7 @@ import { Download as DownloadIcon, Apple, X, MessageCircle } from 'lucide-react'
 
 function LicensePopup({ onClose }: { onClose: () => void }) {
   const handleWhatsApp = () => {
-    const phoneNumber = '919217758442';
+    const phoneNumber = '919972028567';
     const message = 'Hi, I just downloaded Zyqora and need help with my license key!';
     window.open(`https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`, '_blank');
   };
